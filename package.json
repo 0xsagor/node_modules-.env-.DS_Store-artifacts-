@@ -1,0 +1,8 @@
+{
+  "name": "simple-on-chain-voting",
+  "version": "1.0.0",
+  "description": "Decentralized Governance Voting Repository",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
